@@ -20,4 +20,4 @@ wiiuのブラウザでhttp://funbeatz.ml にアクセスすれば起動するこ
 Lボタンと-ボタン同時押しでwiiuパッドの画面をテレビに表示します．
 
 # 貢献者
-yolopia - Webサイト"funbeatz.ml"の作成
+GodMother - Webサイト"funbeatz.ml"の作成
